@@ -1,8 +1,7 @@
 # Java COMPLETO Programação Orientada a Objetos + Projetos
 
 ## Link do Curso
-<a href="https://www.udemy.com/course/java-curso-completo/" 
-   style="font-size: 18px; font-weight: bold; color: #3498db; text-decoration: none;">
+<a >
    Curso Completo de Java na Udemy
 </a>
 
